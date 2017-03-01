@@ -1,0 +1,144 @@
+@CHARSET "UTF-8";
+.personBlog_body{
+	width:100%;
+	margin:10px auto;
+	overflow:auto;
+}
+.personInfo{
+	width:200px;
+	overflow: hidden;
+	margin:10px auto;
+	float:left;
+	margin-right:10px;
+	text-align: center;
+}
+.personInfo_table{
+	width:200px;
+	margin:0 auto;
+	text-align: center;
+}
+.personInfo_table tr{
+	height:25px;
+}
+.title_head{
+	width:80px;
+	overflow: hidden;
+	margin:10px 5px;
+	text-align:right;
+}
+.content_head{
+	text-align:left;
+	width:100px;
+	overflow: hidden;
+	margin:10px 5px;
+}
+.audit{
+	width:800px;
+	margin:10px auto;
+	padding-top:30px;
+}
+.but_post{
+	width:800px;
+	height:40px;
+	margin-right:86px;
+	margin-bottom:20px;
+}
+.but_post input{
+	width:60px;
+	height:30px;
+	float:right;
+	margin-top:10px;
+	
+}
+.blog_content{
+	clear:both;
+	width:800px;
+    overflow:auto;
+	margin-right:86px;
+}
+.noneAudit{
+	text-align:center;
+	margin-top:50px;
+	font-family: "Microsoft YaHei";
+	font-size: 18px;
+}
+.blog_detail{
+	width:800px;
+	overflow: hidden;
+	margin:0 auto;
+	border-bottom: 1px dashed;
+	margin-top:10px;
+	padding-bottom:10px;
+}
+.blog_person{
+	width:800px;
+	height:90px;
+	text-align:left;
+	overflow: hidden;
+	
+}
+.blog_info{
+	width:700px;
+	float:left;
+	margin-left:20px;
+	font-family: "Microsoft Yahei";
+	font-size: 20px;
+}
+.blog_info a:hover{
+	text-decoration: none;
+}
+.blog_time{
+	width:700px;
+	float:left;
+	margin-left:20px;
+	margin-top:20px;
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+}
+.content{
+	float:left;
+	margin-left:10px;
+	width:670px;
+	text-indent: 2em; 
+	word-break: break-all;
+    word-wrap:break-word;
+    font-family: "Microsoft Yahei";
+	font-size: 15px;
+}
+.delete{
+	margin-left:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

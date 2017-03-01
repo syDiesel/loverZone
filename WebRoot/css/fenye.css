@@ -1,0 +1,69 @@
+/*分页  */
+.page {
+	margin-top:30px;
+	width:100%;
+	text-align: center;
+	height: 35px;
+    float:left;
+}
+
+.page ul {
+	margin: 0 auto;
+	overflow: hidden;
+	text-align:center;
+}
+
+.page ul li{
+	display:inline-block;
+}
+
+.page a {
+	float: left;
+	margin-right: 5px;
+	padding: 4px 8px 3px;
+	/* height: 18px; */
+	border: 1px solid #CDCDCD;
+	white-space: nowrap;
+	text-decoration: none;
+}
+
+.page a:hover {
+	border: 0;
+	padding: 5px 9px 4px;
+	color: #fff;
+	background: #1C86EE;
+}
+
+.nowpage {
+	color: #fff;
+	background: #1C86EE;
+	border: 0;
+	padding: 5px 9px 4px;
+}
+
+.noneAlbum{
+	font-size: 18px;
+	font-family: "Microsoft YaHei";
+	margin-top:40px;
+	margin-left:430px;
+	margin-bottom: 30px;
+}
+.clickPass{
+	margin-left:370px;
+	padding-top:80px;
+	height:340px;
+	background-color: white;
+}
+.click_pass{
+	line-height:30px;
+	font-family: 'Microsoft YaHei';
+	font-size: 18px;
+	
+}
+.click_text{
+	height:25px;
+}
+.click_butt{
+	margin-top:30px;
+	margin-left:70px;
+}

@@ -1,0 +1,105 @@
+@CHARSET "UTF-8";
+.main_creat{
+	display: none;
+}
+.creat_div{
+	display: none;
+	width:380px;
+	height:350px;
+	/* background-color:white; */
+	background-color:gray;
+	float:left;
+	margin:200px auto;
+	margin-left:540px;
+	opacity:1;
+	z-index: 20;
+}
+.creat_div_head{
+	width:380px;
+	height:50px;
+}
+.creat_div_head h1{
+	font-size: 25px;
+	float: left;
+	margin-left:40px;
+}
+.creat_div_main{
+	width:380px;
+	height:240px;
+}
+.album_creat_name{
+	width:380px;
+	height:60px;
+	float:left;
+	margin-left:40px;
+	margin-top:20px;
+	overflow: hidden;
+}
+.album_creat_name h{
+	font-family: "Microsoft Yahei";
+	font-size: 18px;
+}
+.album_creat_name input{
+	margin-left:18px;
+	height:30px;
+	width:200px;
+}
+.album_creat_but{
+	text-align: center;
+}
+.album_creat_but input{
+	width:60px;
+	height:30px;
+	margin-top:20px;
+}
+.album_creat_desc h{
+	margin-left:40px;
+	font-family: "Microsoft Yahei";
+	font-size: 18px;
+	vertical-align: top;
+}
+.album_creat_desc{
+	width:380px;
+	height:80px;
+	overflow: hidden;
+}
+.album_desc{
+	width:220px;
+	height:70px;
+}
+.album_creat_pwd{
+	width:380px;
+	height:60px;
+	float:left;
+	margin-left:40px;
+	overflow: hidden;
+}
+.album_creat_pwd h{
+	font-family: "Microsoft Yahei";
+	font-size: 18px;
+	vertical-align: top;
+	float:left;
+}
+.input_pwd{
+	display:none;
+	width:200px;
+	float:left;
+	margin-left:8px;
+}
+.input_pwd input{
+	height:30px;
+}
+.inputPwd{
+	width:140px;
+}
+
+
+
+
+
+
+
+
+
+
+

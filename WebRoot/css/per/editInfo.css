@@ -1,0 +1,71 @@
+@CHARSET "UTF-8";
+.person_topic{
+	width:790px;
+	font-family: "Microsoft Yahei";
+	font-size: 18px;
+	padding-top:10px;
+}
+.personal_table{
+	margin:10px auto;
+	margin-left:10px;
+}
+.personal_table tr{
+	height:80px;
+}
+.td1{
+	width:90px;
+	font-family: "Microsoft Yahei";
+	font-size: 16px;
+}
+.td2{
+	width:310px;
+	font-family: "Microsoft Yahei";
+	font-size: 15px;
+}
+.td2 input{
+	height:25px;
+}
+.td2 select{
+	height:25px;
+}
+.sex_sel{
+	height:15px;
+	font-family: "Microsoft Yahei";
+	font-size: 18px;
+}
+.td2 textarea{
+	width:310px;
+	height:80px;
+	
+}
+
+.sumbit_save input{
+	width:60px;
+	height:30px;
+	float:right;
+	margin-right:80px;
+	margin-bottom:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

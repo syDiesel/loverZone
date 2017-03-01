@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+.home_content{
+	
+	clear:both;
+	width:800px;
+    overflow:auto;
+    margin-left: 300px;
+    margin-top:60px;
+}
+.noneAudit{
+	text-align:center;
+	margin-top:50px;
+	font-family: "Microsoft YaHei";
+	font-size: 18px;
+}

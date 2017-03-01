@@ -1,0 +1,44 @@
+@CHARSET "UTF-8";
+.main{
+	width: 1349px;
+	margin: 10px auto;
+}
+.pic{
+	
+	float:left;
+	padding-top:9%;
+	padding-left:28%;
+}
+.wrap{
+	
+	float: right;
+	padding-top:4%;
+	padding-right:25%;
+}
+.sign_input{
+	
+	height:35px;
+	width:220px;
+	border-radius:5px;
+}
+.sign_sub{
+	
+	height:35px;
+	width:180px;
+	font-family: "Microsoft Yahei";
+	font-size: 18px;
+	background: #1C86EE;
+	border: none;
+	border-radius: 0;
+	/* height: 28px; */
+	line-height: 16px;
+	color: #FFF;
+	padding-bottom: 6px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 6px;
+	text-align: center;
+	cursor:pointer;
+	margin-right:10px;
+	border-radius:5px;
+}

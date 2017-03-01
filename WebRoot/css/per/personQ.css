@@ -1,0 +1,172 @@
+@CHARSET "UTF-8";
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+.personQ_body{
+	width:900px;
+	overflow: auto;
+	margin:20px auto;
+	margin-top:70px;
+	font-family: "Microsoft Yahei";
+}
+.question_form{
+	width:900px;
+	overflow: auto;
+	margin:20px auto;
+	text-align: center;
+}
+.sub_btn{
+	width:60px;
+	height:30px;
+	float:right;
+	background: #1C86EE;
+	border: none;
+	border-radius: 0;
+	/* height: 28px; */
+	line-height: 16px;
+	color: #FFF;
+	padding-bottom: 6px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 6px;
+	text-align: center;
+	cursor:pointer;
+	margin-right:10px;
+	border-radius:5px;
+}
+.reset_btn{
+	width:60px;
+	height:30px;
+	float:right;
+	background: #1C86EE;
+	border: none;
+	border-radius: 0;
+	/* height: 28px; */
+	line-height: 16px;
+	color: #FFF;
+	padding-bottom: 6px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 6px;
+	text-align: center;
+	cursor:pointer;
+	margin-right:10px;
+	border-radius:5px;
+}
+.title{
+	width:900px;
+	text-align: left;
+	font-size: 17px;
+	margin:20px 0;
+}
+.QSubject{
+	height:30px;
+	width:400px;
+	font-size: 17px;
+}
+.question_list{
+	width:900px;
+	margin:20px auto;
+	overflow: auto;
+}
+.none{
+	width:900px;
+	margin-top:60px;
+	margin-bottom:90px;
+	text-align: center;
+	font-size: 18px;
+}
+.blog_person{
+	width:800px;
+	height:90px;
+	text-align:left;
+	overflow: hidden;
+	
+}
+.blog_info{
+	float:left;
+	margin-left:20px;
+	font-family: "Microsoft Yahei";
+	font-size: 20px;
+}
+.blog_info a{
+	text-decoration: none;
+}
+.blog_info a:hover{
+	text-decoration: none;
+}
+.blog_time{
+	width:710px;
+	float:left;
+	margin-left:20px;
+	margin-top:20px;
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+}
+.question_content{
+	width:100%;
+	overflow: hidden;
+	font-family: "Microsoft Yahei";
+	border-bottom: 1px dotted;
+	margin-bottom:10px;
+}
+.question_sub{
+	font-size: 16px;
+}
+.question_desc{
+	width:100%;
+	font-size: 14px;
+	text-indent: 2em; 
+	word-break: break-all;
+    word-wrap:break-word;
+}
+.huifu{
+	width:900px;
+	float:right;
+	text-align:right;
+	font-size: 15px;
+	
+}
+.reply_area{
+	display:none;
+}
+.reply_result{
+	width:880px;
+	margin-left:20px;
+	font-size: 14px;
+	margin-bottom:10px;
+}
+.reply_time{
+	font-size: 13px;
+}
+.reply2{
+	margin-left:10px;
+	font-size: 13px;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

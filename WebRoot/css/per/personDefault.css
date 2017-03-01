@@ -1,0 +1,76 @@
+@CHARSET "UTF-8";
+.upload_head{
+	width:900px;
+	height:100px;
+	margin:0px auto;
+	margin-top:10px;
+}
+.upload_headImg{
+	width:120px;
+	height:100px;
+	float:left;
+	overflow: hidden;
+}
+.head_img{
+	width:90px;
+	height:90px;
+	margin:10px 0px;
+	margin-left:20px;
+}
+.upload_headNav{
+	width:780px;
+	height:100px;
+	float:left;
+	
+}
+.head_info{
+	width:780px;
+	height:60px;
+	
+}
+.head_nav{
+	width:780px;
+	height:40px;
+	
+}
+.head_nav_ul{
+	width:740px;
+	height:40px;
+	margin:0 30px;
+	list-style: none;
+	text-decoration: none;
+}
+.head_nav_ul li{
+	width:140px;
+	height:40px;
+	float: left;
+}
+.head_nav_ul li a{
+	width:140px;
+	height:40px;
+	text-decoration: none;
+	text-align:center;
+	float: left;
+	margin-top:5px;
+	font-size: 22px;
+	color:RGB(115,86,89);
+	font-family: "Microsoft YaHei";
+	padding-top:10px;
+}
+.head_nav_ul li a:hover {
+	background-color:gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
