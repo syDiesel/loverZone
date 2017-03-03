@@ -393,7 +393,7 @@ public class UserInfoAction {
 		String url = basePath + "/com/userPsw.html?userName=" + java.net.URLEncoder.encode(name,"utf-8") + "";
 		String econtent = getMailContent(name, url); // 邮件内容
 		String eusername = "13387624698@sina.cn";
-		String epassword = "fhYS687998SYjz";
+		String epassword = "";
 		String efilename = ""; // 附件路径，如：F:\\笔记<a>\\struts2</a>与mvc.txt
 		boolean emailresult = Mail.send(esmtp, efrom, eto, esubject, econtent,
 				eusername, epassword);
